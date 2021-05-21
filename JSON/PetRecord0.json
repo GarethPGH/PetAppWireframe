@@ -1,0 +1,40 @@
+
+{
+    "_Comment1_": "Example JSON created using TestPets.java. DO NOT USE this file for data, because this comment will be treated as a data object",
+"Derp":{
+"Pet Name" : "Derp",
+"Pet Species" : "Dog/ Canis Lupus Familiaris",
+"Pet Missing" : "false",
+"Pet Date Lost" : "",
+"Pet Sex" : "male",
+"Pet Fixed" : "true",
+"Pet Photos" : ["Images/Derp.jpg"]
+},
+"Rat Boyz":{
+"Pet Name" : "Rat Boyz",
+"Pet Species" : "Rat/ Rattus Norvegicus",
+"Pet Missing" : "true",
+"Pet Date Lost" : "12/24/2016",
+"Pet Sex" : "male",
+"Pet Fixed" : "false",
+"Pet Photos" : ["Images/Ratbutts.jpg","Images/Ratbutts2.jpg"]
+},
+"Queen":{
+"Pet Name" : "Queen",
+"Pet Species" : "Cat/ Felis Catus",
+"Pet Missing" : "true",
+"Pet Date Lost" : "5/15/2011",
+"Pet Sex" : "female",
+"Pet Fixed" : "true",
+"Pet Photos" : ["Images/Queen.jpg"]
+},
+"Gromp":{
+"Pet Name" : "Gromp",
+"Pet Species" : "Leopard Gecko/ Eublepharis Macularius",
+"Pet Missing" : "false",
+"Pet Date Lost" : "",
+"Pet Sex" : "Unknown",
+"Pet Fixed" : "false",
+"Pet Photos" : ["Images/GROMP.jpg"]
+}
+}
