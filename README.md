@@ -12,7 +12,7 @@ The Logic folder contains the files needed to create JSON files. The JSON syntax
  
  ## Todo
  
- Refactor the application using FXML
+ Refactor the application using FXML  
  Add screenshots of the application to Github when VSCode stops pretending my application doesn't work (it was working fine last time I opened it).
  
  Readme2 contains a listing of the file structure of the program
