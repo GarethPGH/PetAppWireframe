@@ -8,7 +8,7 @@ Create Pet Records features a list of questions in a VBox. Pet records are creat
 
 View Pet Records reads the values stored in the ArrayList. It then creates screens that shows the Pets name, species, whether the pet is missing, what date it was last seen, its gender, whether it is spayed, or neutered, and includes a photo. The photo can be changed if the user supplied more than one name of a file to the textfield for photos. These photos must be in the project's Images folder, and must all be .jpg files. The page features three main buttons. User can change the record to view a different record in the ArrayList, return to the main screen, or create a JSON file containing all of the records in the ArrayList. Created JSON files can be found in the JSON folder.
 
-The Logic folder contains the files needed to create JSON files. The JSON syntax was formatted manually without using an import. A static counter class allows files to be created in sequential order and they are all named PetRecord<counter>.json.
+The Logic folder contains the files needed to create JSON files. The JSON syntax was formatted manually without using an import. A static counter class allows files to be created in sequential order and they are all named PetRecord[counter].json.
  
  ## Todo
  
